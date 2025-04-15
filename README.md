@@ -50,9 +50,9 @@ python main.py
 ## Project Structure
 
 ```
-face-recognition-attendance/
+smart-attendance-system/
 │
-├── main.py                 # Main GUI application
+├── main.py                 # Main GUI application with face recognition
 ├── utils/
 │   └── face_utils.py      # Face detection and recognition utilities
 ├── known faces/           # Directory storing known face images
